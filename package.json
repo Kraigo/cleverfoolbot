@@ -1,0 +1,17 @@
+{
+  "name": "cleverfoolbot",
+  "version": "0.0.2",
+  "description": "Telegram Bot",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.64.0",
+    "xregexp": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tests.js"
+  },
+  "author": "@Kraigo",
+  "license": "ISC",
+  "private": true
+}
